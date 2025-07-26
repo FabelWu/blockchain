@@ -9,3 +9,7 @@ chmod u+w ~/.bash_profile
 export PATH="$HOME/.cargo/bin:$PATH"
 ### 生效环境变量
 source .zshrc
+## visual code
+### 安装插件
+rust-analyzer
+Error Lens
