@@ -11,5 +11,7 @@ export PATH="$HOME/.cargo/bin:$PATH"
 source .zshrc
 ## visual code
 ### 安装插件
-rust-analyzer
-Error Lens
+- rust-analyzer
+- Error Lens
+## 创建helloworld
+cargo new helloworld
